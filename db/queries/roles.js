@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const query = require("../../config/db");
+const query = require("../../config/connection");
 const { getDepartmentsAsChoices } = require("./departments");
 
 const viewRoles = () => {

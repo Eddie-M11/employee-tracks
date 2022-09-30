@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const query = require("../../config/db");
+const query = require("../../config/connection");
 const { getRolesAsChoices } = require("./roles");
 
 const getEmployeesAsChoices = async () => {

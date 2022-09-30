@@ -26,13 +26,13 @@ VALUES
 INSERT INTO
     employees (first_name, last_name, role_id, manager_id)
 VALUES
-    ("Eddie", "Random", 1, 1),
-    ("John", "Sue", 2, 1),
-    ("Ross", "Geller", 3, 1),
-    ("Cristiano", "Ronaldo", 4, 4),
-    ("Lionel", "Messi", 5, 4),
-    ("Captiain", "Price", 6, 4),
-    ("Jim", "Morrison", 7, 7),
-    ("Joe", "Goldberg", 8, 7),
-    ("Clark", "Griffin", 9, 7),
-    ("Paul", "Walker", 10, 10),
+    ("Eddie", "Random", 1, null),
+    ("John", "Sue", 2, null),
+    ("Ross", "Geller", 3, null),
+    ("Cristiano", "Ronaldo", 4, null),
+    ("Lionel", "Messi", 5, null),
+    ("Captiain", "Price", 6, null),
+    ("Jim", "Morrison", 7, null),
+    ("Joe", "Goldberg", 8, null),
+    ("Clark", "Griffin", 9, null),
+    ("Paul", "Walker", 10, null),
