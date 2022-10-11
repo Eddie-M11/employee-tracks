@@ -25,6 +25,9 @@ npm i
 
 After installing dependencies invoke the program by typing 'node index.js'. Select the prompts that are shown in the terminal in the terminal. Starting with viewing the departments, roles, and employees first will be easier to navigate through the menu when adding any of the above.<br><br>
 
+## Video Link
+https://drive.google.com/file/d/1PMrdK4ZugUZz4a--TJ_uUxQgXdG81B-2/view
+
 ## Questions
 
 If you are interested in contacting me or contributing to this project, please contact me via email and create a pull request to this repo.
